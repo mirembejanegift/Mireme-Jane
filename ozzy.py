@@ -18,3 +18,5 @@
 # my_num = 200
 # the computer is able to understand all because that is the languange of a computer
 # Declaring is the telling a computer that some thing exist and giving it a name
+# Initializing means giving a variable its first value.
+#(Think of it like putting something in an empty box before using it.)
